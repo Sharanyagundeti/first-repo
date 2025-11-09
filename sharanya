@@ -1,0 +1,7 @@
+To get the commit details along with filenames : git show commit-id --name-only
+To get the commit details along with the changes in filenames : git show commit-id
+To get the commit details along with the changes in files & stats : git show commit-id --
+stat
+GIT CONFIG:
+To config username : git config user.name “username”
+To config user email : git config user.email “email
