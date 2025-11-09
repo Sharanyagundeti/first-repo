@@ -5,3 +5,4 @@ stat
 GIT CONFIG:
 To config username : git config user.name “username”
 To config user email : git config user.email “email
+data added in git
